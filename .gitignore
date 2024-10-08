@@ -2,3 +2,4 @@
 /fltk_build
 *~
 *.swp
+cgo*.go
